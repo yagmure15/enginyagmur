@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter and Design Pattern**
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=Engin+Ya%C4%9Fmur](https://play.google.com/store/apps/developer?id=Engin+Ya%C4%9Fmur)
+- 👨‍💻 All of my projects are available at [Google Play Store](https://play.google.com/store/apps/developer?id=Engin+Ya%C4%9Fmur)
 
 - 📝 I regularly write articles on [enginyagmur.com](enginyagmur.com)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yagmure15@itu.edu.tr**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fDXBHRMFlaHP8M1u7VYH-8XE8LWjhCfN/view?usp=sharing)
+- 📄 Know about [my experiences](https://drive.google.com/file/d/1fDXBHRMFlaHP8M1u7VYH-8XE8LWjhCfN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
