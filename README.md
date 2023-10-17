@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yagmure15@itu.edu.tr**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12xFLQdLn_TilsKySNkS9UJpVQRSKjnGP/view?usp=sharing](https://drive.google.com/file/d/12xFLQdLn_TilsKySNkS9UJpVQRSKjnGP/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fDXBHRMFlaHP8M1u7VYH-8XE8LWjhCfN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
